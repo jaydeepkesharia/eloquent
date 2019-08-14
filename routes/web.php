@@ -25,5 +25,3 @@ Route::resource('mobile','MobileController');
 
 Route::resource('role','RoleController');
 
-
-
